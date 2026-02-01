@@ -6,7 +6,7 @@ GARCH-family models.
 
 ##  Report
 - **Full paper (PDF):**
-  - [Volatility Modeling of BTC and S&P 500](Volatility_Modeling_of_BTC_and_S&P500.pdf)
+  - [Volatility Modeling of BTC and S&P 500](Volatility_Modeling_of_BTC_and_S&P_500.pdf)
 
 ##  Research Question
 - Is volatility predictable despite Random Walk Theory?
